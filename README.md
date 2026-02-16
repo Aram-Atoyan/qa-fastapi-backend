@@ -71,3 +71,16 @@ Open Swagger docs:
 	•	http://127.0.0.1:8000/docs
 
 
+---
+
+## Endpoints (main)
+	•	GET /health — check server is running
+	•	GET /users — list users
+	•	POST /users/register — register user
+	•	GET /questions — list questions
+	•	POST /questions — create question
+	•	POST /answers — create answer
+	•	POST /comments — add comment to a question OR answer
+	•	POST /votes — vote on a question OR answer
+
+
