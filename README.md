@@ -18,18 +18,6 @@ This backend is built on top of my SQL project repo (schema + data + functions):
 
 ---
 
-## How this relates to the SQL project
-- The SQL repo contains:
-  - database schema (**DDL**)
-  - sample data (**DML**)
-  - stored functions for operations (**PL/pgSQL**)
-  - reporting queries
-- This backend repo:
-  - connects to that database
-  - calls those stored functions from API endpoints
-
----
-
 ## What this API does
 The API calls existing database functions to:
 - register users
