@@ -1,5 +1,3 @@
-# Q&A Forum Backend with FastAPI
-FastAPI + PostgreSQL backend for a Q&amp;A platform
 # Q&A Backend API (FastAPI + PostgreSQL)
 
 A simple backend API for a Q&A platform (similar to StackOverflow).  
